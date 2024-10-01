@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Divyansh Singh</h1>
 <h3 align="center">I brew code with a cup in hand☕, A quiet soul, but big dreams I plan, In beta forever, I strive to expand🌊, Explorer of skills, with endless demand🚀</h3>
 
